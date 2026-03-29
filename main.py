@@ -20,7 +20,7 @@ def main_menu():
 
 
 def search_xlsx(query, mode):
-    wb = load_workbook("attached_assets/data_1774726309358.xlsx")
+    wb = load_workbook("attached_assets/data.xlsx")
     sheet = wb.active
 
     results = []
