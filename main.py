@@ -20,7 +20,7 @@ def main_menu():
 
 
 def search_xlsx(query, mode):
-    wb = load_workbook("load_workbook("data.xlsx")
+    wb = load_workbook("data.xlsx")
     sheet = wb.active
 
     results = []
