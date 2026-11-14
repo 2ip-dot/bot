@@ -8,3 +8,4 @@ vless://5cde2b88-f0c5-4c93-b59b-a3cb5f954770@84.32.248.198:443?encryption=none&f
 
 vless://5cde2b88-f0c5-4c93-b59b-a3cb5f954770@88.216.183.212:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=static-us1.sezamapp.app&fp=chrome&pbk=eO75MoCLyNBdxUROTafw5n9QznyeXnXAbJYW0xQUehs&sid=7acabc0c5bb6be2f#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%C2%B7%201%20%C2%B7%20%D0%B1%D0%B5%D0%B7%D0%BB%D0%B8%D0%BC%D0%B8%D1%82%3FserverDescription%3D0JTQu9GPINGB0LXRgNCy0LjRgdC%2B0LIg0KHQqNCQ
 
+vless://5cde2b88-f0c5-4c93-b59b-a3cb5f954770@84.32.52.21:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.cdn-static.top&fp=chrome&pbk=5bYO5PrP-36Lw-DP9ZNbB8u2Fxi9O_7y_u7mTkQARzw&sid=f8ae2acf819f1a2d#%E2%9D%93%20%D0%9D%D0%B5%20%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D1%82%20%E2%80%94%20%D1%81%D0%BC%D0%B5%D0%BD%D0%B8%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%83%20%F0%9F%91%87
