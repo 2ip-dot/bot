@@ -1,6 +1,7 @@
-#profile-title: Мой VPN Канал
+#profile-title: NETIP.ICU
 #profile-update-interval: 1
-#profile-web-page-url: https://t.me/твой_канал
+#profile-web-page-url: https://t.me/netipicu
+#subscription-userinfo: upload=0; download=3145728; total=0; expire=1794000000
 
 vless://5cde2b88-f0c5-4c93-b59b-a3cb5f954770@84.201.149.237:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=smartcaptcha.yandexcloud.net&fp=chrome&pbk=lwb10RaZTlA_KT8ZrtgjLoHc3dQRhFXTbqEenIDJaWM&sid=b74e378063a3c9fd#🇷🇺→🇪🇺 Сервер 1
 vless://5cde2b88-f0c5-4c93-b59b-a3cb5f954770@edge2.cdn-static.top:443?encryption=none&type=xhttp&path=/v/6d34bcf4eb415d7f&host=edge2.cdn-static.top&mode=packet-up&extra=%7B%22xmux%22:%7B%22maxConcurrency%22:%2216-32%22%7D,%22uplinkChunkSize%22:4096,%22uplinkHTTPMethod%22:%22GET%22,%22scMaxEachPostBytes%22:4096,%22uplinkDataPlacement%22:%22header%22%7D&security=tls&sni=edge2.cdn-static.top&fp=chrome#🇷🇺→🇱🇻 Сервер 2
