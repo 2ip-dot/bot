@@ -1,0 +1,239 @@
+{
+  "dns": {
+    "servers": [
+      {
+        "port": 53,
+        "address": "77.88.8.8",
+        "domains": [
+          "regexp:.*\\.ru$",
+          "regexp:.*\\.su$",
+          "regexp:.*\\.рф$",
+          "regexp:.*\\.xn--p1ai$",
+          "domain:vk.com",
+          "domain:userapi.com",
+          "domain:mycdn.me",
+          "domain:my.com",
+          "domain:mradx.net",
+          "domain:yandex.net",
+          "domain:yastatic.net",
+          "domain:yandexcloud.net"
+        ],
+        "skipFallback": true
+      },
+      "https://1.1.1.1/dns-query",
+      "1.1.1.1"
+    ],
+    "disableCache": false,
+    "queryStrategy": "UseIPv4"
+  },
+  "log": {
+    "loglevel": "warning"
+  },
+  "routing": {
+    "rules": [
+      {
+        "ip": [
+          "198.18.0.1"
+        ],
+        "port": "8080",
+        "type": "field",
+        "outboundTag": "proxy"
+      },
+      {
+        "type": "field",
+        "ruleTag": "block-bittorrent",
+        "protocol": [
+          "bittorrent"
+        ],
+        "outboundTag": "block"
+      },
+      {
+        "type": "field",
+        "domain": [
+          "domain:mtalk.google.com",
+          "domain:push.apple.com",
+          "domain:api.push.apple.com",
+          "domain:push-apple.com.akadns.net"
+        ],
+        "ruleTag": "direct-push",
+        "outboundTag": "direct"
+      },
+      {
+        "type": "field",
+        "domain": [
+          "regexp:.*\\.ru$",
+          "regexp:.*\\.su$",
+          "regexp:.*\\.рф$",
+          "regexp:.*\\.xn--p1ai$",
+          "yandex.cloud",
+          "domain:vk.com",
+          "domain:vk.me",
+          "domain:aliusvpn.ru",
+          "domain:vk.cc",
+          "domain:vk.link",
+          "domain:vkuser.net",
+          "domain:vkuseraudio.net",
+          "domain:vkuservideo.net",
+          "domain:vk-cdn.net",
+          "domain:vk-cdn.me",
+          "domain:vk-apps.com",
+          "domain:userapi.com",
+          "domain:my.com",
+          "domain:capi.my.com",
+          "domain:mycdn.me",
+          "domain:mradx.net",
+          "domain:mytarget.com",
+          "domain:mytracker.com",
+          "domain:mytrackerapi.com",
+          "domain:icq.com",
+          "domain:icq.net",
+          "domain:icq.im",
+          "domain:myicq.com",
+          "domain:tamtam.chat",
+          "domain:yandex.com",
+          "domain:yandex.net",
+          "domain:yandex.by",
+          "domain:yandex.kz",
+          "domain:ya.cc",
+          "domain:yadi.sk",
+          "domain:yastatic.net",
+          "domain:yandexcloud.net",
+          "domain:yandexadexchange.net",
+          "domain:ozon.st",
+          "domain:ozoncloud.net",
+          "domain:ozonusercontent.com",
+          "domain:wbstatic.net",
+          "domain:megamarket.tech",
+          "domain:2gis.com",
+          "domain:cian.com",
+          "domain:interfax.com",
+          "domain:gett.com",
+          "domain:maps.me",
+          "domain:premier.one",
+          "domain:okko.tv",
+          "domain:more.tv",
+          "domain:megogo.net",
+          "domain:avito.st",
+          "domain:yappy.media",
+          "domain:mediascope.net",
+          "domain:appsflyersdk.com",
+          "domain:alfa.me",
+          "domain:tbank-online.com",
+          "domain:toloka.ai",
+          "domain:tvoe.live"
+        ],
+        "ruleTag": "direct-ru-domains",
+        "outboundTag": "direct"
+      }
+    ],
+    "domainMatcher": "hybrid",
+    "domainStrategy": "IPIfNonMatch"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "listen": "127.0.0.1",
+      "protocol": "socks",
+      "settings": {
+        "udp": true,
+        "auth": "noauth"
+      },
+      "sniffing": {
+        "enabled": true,
+        "routeOnly": false,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      }
+    },
+    {
+      "tag": "http",
+      "port": 10809,
+      "listen": "127.0.0.1",
+      "protocol": "http",
+      "settings": {
+        "udp": true,
+        "auth": "noauth"
+      },
+      "sniffing": {
+        "enabled": true,
+        "routeOnly": false,
+        "destOverride": [
+          "http",
+          "tls",
+          "quic"
+        ]
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "lb10.m2ip-video.cloud",
+            "port": 443,
+            "users": [
+              {
+                "id": "de03bf0d-b4d0-410d-81e1-442e418f05af",
+                "encryption": "none",
+                "flow": ""
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "xhttp",
+        "xhttpSettings": {
+          "mode": "auto",
+          "host": "",
+          "path": "/GunService",
+          "extra": {
+            "xmux": {
+              "cMaxReuseTimes": 0,
+              "maxConcurrency": "6-12",
+              "maxConnections": 0,
+              "hKeepAlivePeriod": 15,
+              "hMaxRequestTimes": "600-900",
+              "hMaxReusableSecs": "600-1200"
+            },
+            "headers": {},
+            "noGRPCHeader": false,
+            "xPaddingBytes": "100-1000",
+            "scMaxEachPostBytes": 1000000,
+            "scMinPostsIntervalMs": 30,
+            "scStreamUpServerSecs": "20-80"
+          }
+        },
+        "security": "reality",
+        "realitySettings": {
+          "serverName": "aliusfilms.ru",
+          "publicKey": "cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg",
+          "shortId": "3f8ad1",
+          "fingerprint": "firefox"
+        }
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "AsIs"
+      }
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole"
+    }
+  ],
+  "remarks": "🇪🇺 Резерв 👇",
+  "meta": {
+    "serverDescription": "Резервные сервера"
+  }
+}
