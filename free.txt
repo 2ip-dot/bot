@@ -3,7 +3,7 @@
 #profile-web-page-url: https://t.me/netipicu
 #subscription-userinfo: upload=0; download=0; total=0; expire=1861920000
 
-[16.11.2026 20:54] Вадим: {
+{
   "dns": {
     "servers": [
       {
@@ -154,7 +154,7 @@
           "domain:tbank-online.com",
           "domain:toloka.ai",
           "domain:tvoe.live"
-[16.11.2026 20:54] Вадим: ],
+        ],
         "ruleTag": "direct-ru-domains",
         "outboundTag": "direct"
       },
@@ -329,7 +329,7 @@
         "realitySettings": {
           "serverName": "vandrel.cloud",
           "publicKey": "cynncQk7kKzEQaExg-FN7pMqFaZPSXEi_Ggy7AXXmVg",
-[16.11.2026 20:54] Вадим: "shortId": "3f8ad1",
+          "shortId": "3f8ad1",
           "fingerprint": "firefox"
         }
       }
@@ -483,7 +483,7 @@
       "protocol": "vless",
       "settings": {
         "vnext": [
-[16.11.2026 20:54] Вадим: {
+          {
             "address": "vpn-gw.mv-video.cloud",
             "port": 8443,
             "users": [
@@ -636,7 +636,7 @@
           "auth": "de03bf0d-b4d0-410d-81e1-442e418f05af"
         },
         "security": "tls",
-[16.11.2026 20:54] Вадим: "tlsSettings": {
+        "tlsSettings": {
           "serverName": "de.norrbitch.pro",
           "fingerprint": "firefox",
           "alpn": [
