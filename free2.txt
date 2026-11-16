@@ -1,7 +1,3 @@
-#profile-title: NETIP.ICU
-#profile-update-interval: 1
-#profile-web-page-url: https://t.me/netipicu
-#subscription-userinfo: upload=0; download=0; total=0; expire=1861920000
 {
   "dns": {
     "servers": [
