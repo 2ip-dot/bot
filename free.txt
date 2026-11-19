@@ -3,22 +3,12 @@
 #profile-web-page-url: https://t.me/netipicu
 #subscription-userinfo: upload=0; download=0; total=0; expire=1861920000
 
-vless://f206d95c-ca55-4c15-9ab8-78bee49eb716@mapparcel.app:443?encryption=none&type=ws&path=%2Fcatalog%2Ffeed%2FZFwHb8KrfN2E&security=tls&sni=mapparcel.app&fp=firefox&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22delay%22%3A%220%22%2C%22length%22%3A%2210-20%22%2C%22packets%22%3A%22tlshello%22%7D%7D%5D%7D#%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%93%B1%20%E2%AD%90%EF%B8%8F%20%D0%9C%D0%BE%D0%B1%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%238
-
-vless://5ef70d03-e0fc-462c-9a04-1441f604fbfb@vellum.merlano.monster:443?encryption=none&security=tls&sni=vellum.merlano.monster&alpn=http%2F1.1&fp=android&type=ws&path=%2Fapi%2Fde1%2Fstream&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B*CIDR%5D
+vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?encryption=none&security=tls&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B3%F0%9F%87%B1%20Hipnl%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V2%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
 
 
-vless://5ef70d03-e0fc-462c-9a04-1441f604fbfb@marsh.moltex.click:443?encryption=none&security=tls&sni=marsh.moltex.click&alpn=h2%2C%20http%2F1.1&fp=qq&type=xhttp&mode=auto&host=marsh.moltex.click&path=%2Fapi%2Fde1%2Fsync#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B*CIDR%5D
+vless://e1358ace-05f0-40ce-a2a1-bdb5f5191d2c@72.56.15.163:24537?encryption=none&security=tls&sni=v18.nitelekom.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v18.nitelekom.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v18-nitelekom-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B3%F0%9F%87%B1%20Nitelekom%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V18%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
 
 
-vless://5ef70d03-e0fc-462c-9a04-1441f604fbfb@vellum.merlano.monster:443?encryption=none&security=tls&sni=vellum.merlano.monster&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fapi%2Fde1%2Fstream&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B*CIDR%5D
+vless://15665368-dd4c-4bfe-9b7a-6f47d4f3ca00@v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v5-sparuk-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B7%F0%9F%87%BA%20Sparuk%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V5
 
-vless://a30903dc-1bf0-0001-8b1b-603a3a56211c@92.255.58.59:443?encryption=none&security=reality&sni=api-gw-cfg.galioncc.com&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=344f83372596eea2&type=grpc&mode=gun&authority=&serviceName=grpc#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%5B*CIDR%5D%20YA
-
-
-vless://1547ed3d-3bb7-4153-afdc-8eb3e9373c84@95.129.236.50:443?encryption=none&security=tls&sni=video.get.downloader-pet.xyz&fp=qq&type=ws&host=video.get.downloader-pet.xyz&path=%2Fgateway%2Fv1%2Fws%2Fde963c1a03a37c66383da198813099b1&headers=%7B%0A%20%20%22Host%22%3A%20%22video.get.downloader-pet.xyz%22%0A%7D#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5B*CIDR%5D
-
-vless://de56df45-938c-4bc2-a344-8f06796e6c9c@66.90.92.186:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=81e34.veloradigital.xyz&fp=chrome&pbk=ybX004U4zDJO-8Us7GBU9-uyg3Va5WCsZLefbx47gmI&sid=c04db97b&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B*CIDR%5D%20Beeline
-
-
-vless://de56df45-938c-4bc2-a344-8f06796e6c9c@66.90.92.186:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=81e34.veloradigital.xyz&fp=qq&pbk=ybX004U4zDJO-8Us7GBU9-uyg3Va5WCsZLefbx47gmI&sid=c04db97b&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%5B*CIDR%5D%20Beeline
+vless://15665368-dd4c-4bfe-9b7a-6f47d4f3ca00@v4.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v4.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v4.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v4-sparuk-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B7%F0%9F%87%BA%20Sparuk%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V4
