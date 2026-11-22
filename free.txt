@@ -1,4 +1,4 @@
-9#profile-title: NETIP.ICU
+9#profile-title: NETIP.ICU - не работает? Звони в imo.
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/netipicu
 #subscription-userinfo: upload=0; download=0; total=0; expire=1861920000
