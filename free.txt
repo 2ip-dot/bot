@@ -2,12 +2,8 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://netip.icu
 #support-url: https://t.me/netipicu
-#announce: ⚠️ Не работает? Звони в поддержку imo!
-#ping-type: proxy                  # proxy | proxy-head | tcp | icmp
-#check-url-via-proxy: https://...  # URL для теста (твой gstatic)
-#proxy-ping-mode: keepalive        # default | double | keepalive
-#ping-result: icon                 # time | icon
-#subscription-ping-onopen-enabled: 1   # ❌ Provider ID
+#announce: ⚠️ Не работает? Звони или пиши! Можно в imo или куда работает без vpn. 
+#subscription-userinfo: upload=0; download=180984218; total=3188583720550; expire=1797638400
 
 vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?encryption=none&security=tls&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B3%F0%9F%87%B1%20Hipnl%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V2%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
 
