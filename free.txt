@@ -1,4 +1,4 @@
-9#profile-title: NETIP.ICU - не работает? Звони в imo.
+9#profile-title: Не работает? Звони в imo.
 #profile-update-interval: 1
 #profile-web-page-url: https://t.me/netipicu
 #subscription-userinfo: upload=0; download=0; total=0; expire=1861920000
@@ -6,7 +6,7 @@
 vless://ab4b7e9c-6df5-4da0-ac56-1d45f9faa864@194.226.98.175:24645?encryption=none&security=tls&sni=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v2.hipnl.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v2-hipnl-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B3%F0%9F%87%B1%20Hipnl%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V2%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
 
 
-vless://e1358ace-05f0-40ce-a2a1-bdb5f5191d2c@72.56.15.163:24537?encryption=none&security=tls&sni=v18.nitelekom.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v18.nitelekom.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v18-nitelekom-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B3%F0%9F%87%B1%20Nitelekom%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V18%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
+vless://620b58b4-a7e5-423e-bce8-c7f55d5062ca@v19.spaice.globalinetforallalwaysandneverbanyoubelieveme.com:8443?encryption=none&security=tls&sni=v19.spaice.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v19.spaice.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v19-spaice-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B7%F0%9F%87%BA%20Spaice%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V19
 
 
 vless://15665368-dd4c-4bfe-9b7a-6f47d4f3ca00@v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v5-sparuk-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B7%F0%9F%87%BA%20Sparuk%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V5
