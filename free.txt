@@ -13,10 +13,6 @@ vless://ac9efb4e-23a0-4fc0-aa3b-e8f039792eb6@161.104.89.117:27262?encryption=non
 vless://15665368-dd4c-4bfe-9b7a-6f47d4f3ca00@v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v5.sparuk.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v5-sparuk-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B7%F0%9F%87%BA%20Sparuk%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V5
 
 
-vless://44a46aa2-778f-475c-b42b-cb36cc0dfb38@194.226.98.175:28078?encryption=none&security=tls&sni=v9.4uk.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fv9-4uk-globalinetforallalwaysandneverbanyoubelieveme-com-ws&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#%F0%9F%87%AC%F0%9F%87%A7%204uk%20%C2%B7%20VLESS%20WS%20%C2%B7%20TLS%20%C2%B7%20V9%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
-
-
-vless://44ad45aa-3acc-46fd-8b96-aa6589b6aa1c@195.208.123.6:29976?encryption=none&security=tls&sni=v6.finaltelekom.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v6.finaltelekom.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v6-finaltelekom-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%AB%F0%9F%87%AE%20Finaltelekom%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V6%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
 
 
 vless://49cfe0ed-0714-41bd-ac8b-c23f8e72f1e9@e2.closcow.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v8.closcow.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v8.closcow.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v8-closcow-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B7%F0%9F%87%BA%20Closcow%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V8
