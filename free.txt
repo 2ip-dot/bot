@@ -25,9 +25,4 @@ vless://54786f92-78db-432c-aa07-6a743252924d@194.226.98.175:22966?encryption=non
 
 vless://258b00d2-ce00-4999-b4c3-e326a80edea0@vdyirus.globalinetforallalwaysandneverbanyoubelieveme.com:8443?encryption=none&security=tls&sni=v24.vdyirus.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fv24-vdyirus-globalinetforallalwaysandneverbanyoubelieveme-com-ws&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#%F0%9F%87%B7%F0%9F%87%BA%20Vdyirus%20%C2%B7%20VLESS%20WS%20%C2%B7%20TLS%20%C2%B7%20V24
 
-vless://c757414f-27f7-457d-96a2-f79360fc30b3@v3.timazan.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v3.timazan.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v3.timazan.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v3-timazan-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B0%F0%9F%87%BF%20Timazan%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V3
-
-
-vless://85fb9ca2-14c9-41c7-8208-e4392420c83f@193.124.67.175:20810?encryption=none&security=tls&sni=v14.platifin.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v14.platifin.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v14-platifin-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%AB%F0%9F%87%AE%20Platifin%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V14%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
-
-hysteria2://xbs1t82tt7kyvu6q@46.8.112.169:443?security=tls&fm=%7B%7D&sni=node-1.wt419.site#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%F0%9F%94%90
+vless://604d6cac-46a9-4232-97db-e14aa344700c@195.208.123.6:22789?encryption=none&security=tls&sni=v24.cluk.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fv24-cluk-globalinetforallalwaysandneverbanyoubelieveme-com-ws&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#%F0%9F%87%AC%F0%9F%87%A7%20Cluk%20%C2%B7%20VLESS%20WS%20%C2%B7%20TLS%20%C2%B7%20V24%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
