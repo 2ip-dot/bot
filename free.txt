@@ -21,7 +21,6 @@ vless://44ad45aa-3acc-46fd-8b96-aa6589b6aa1c@195.208.123.6:29976?encryption=none
 
 vless://49cfe0ed-0714-41bd-ac8b-c23f8e72f1e9@e2.closcow.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v8.closcow.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v8.closcow.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v8-closcow-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B7%F0%9F%87%BA%20Closcow%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V8
 
-vless://54786f92-78db-432c-aa07-6a743252924d@194.226.98.175:22966?encryption=none&security=tls&sni=v4.plade.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v4.plade.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v4-plade-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%A9%F0%9F%87%AA%20Plade%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V4%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
 
 vless://258b00d2-ce00-4999-b4c3-e326a80edea0@vdyirus.globalinetforallalwaysandneverbanyoubelieveme.com:8443?encryption=none&security=tls&sni=v24.vdyirus.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fv24-vdyirus-globalinetforallalwaysandneverbanyoubelieveme-com-ws&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#%F0%9F%87%B7%F0%9F%87%BA%20Vdyirus%20%C2%B7%20VLESS%20WS%20%C2%B7%20TLS%20%C2%B7%20V24
 
