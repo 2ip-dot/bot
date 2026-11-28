@@ -13,8 +13,6 @@ vless://5bbd37be-01ad-43ed-b8b7-37375e4bbedc@201.34.129.176:28038?encryption=non
 
 vless://afb4f426-3c4e-4165-b2b0-115e6ee0f4e7@v18.timentry.globalinetforallalwaysandneverbanyoubelieveme.com:8443?encryption=none&security=tls&sni=v18.timentry.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v18.timentry.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v18-timentry-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B3%F0%9F%87%B1%20Tinaveve%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V18
 
-vless://95aa8d4a-4334-4a49-a4fd-101a2e412534@201.34.129.176:27446?encryption=none&security=tls&sni=v21.senge.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fv21-senge-globalinetforallalwaysandneverbanyoubelieveme-com-ws&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#%F0%9F%87%A9%F0%9F%87%AA%20Senge%20%C2%B7%20VLESS%20WS%20%C2%B7%20TLS%20%C2%B7%20V21%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
-
 
 vless://e5a80650-1c87-42c8-b10b-688475d05b84@tiraru.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v10.tiraru.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fv10-tiraru-globalinetforallalwaysandneverbanyoubelieveme-com-ws&headers=%7B%0A%20%20%22Host%22%3A%20%22%22%0A%7D#%F0%9F%87%B7%F0%9F%87%BA%20Tiraru%20%C2%B7%20VLESS%20WS%20%C2%B7%20TLS%20%C2%B7%20V10
 
