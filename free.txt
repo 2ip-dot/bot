@@ -36,9 +36,6 @@ vless://4c4d5dbc-c5f5-424c-ab09-c4545134347a@v14.rusina.globalinetforallalwaysan
 vless://e5a80650-1c87-42c8-b10b-688475d05b84@v8.tiraru.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v8.tiraru.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v8.tiraru.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v8-tiraru-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B7%F0%9F%87%BA%20Tiraru%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V8
 
 
-vless://0fb69214-b925-4603-890c-e593a96eb1c4@201.34.129.176:29218?encryption=none&security=tls&sni=v.hosfinano.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v.hosfinano.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v-hosfinano-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%AB%F0%9F%87%AE%20Hosfinano%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V%20%D1%87%D0%B5%D1%80%D0%B5%D0%B7%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8E
-
-
 vless://e6b4c752-0dc2-4392-9661-46957d1d928b@v3.timama.globalinetforallalwaysandneverbanyoubelieveme.com:443?encryption=none&security=tls&sni=v3.timama.globalinetforallalwaysandneverbanyoubelieveme.com&alpn=h2%2C%20http%2F1.1&fp=firefox&type=grpc&mode=gun&authority=v3.timama.globalinetforallalwaysandneverbanyoubelieveme.com&serviceName=v3-timama-globalinetforallalwaysandneverbanyoubelieveme-com#%F0%9F%87%B1%F0%9F%87%BB%20Hiphopa-Isle%20%C2%B7%20VLESS%20gRPC%20%C2%B7%20TLS%20%C2%B7%20V3
 
 
