@@ -2,7 +2,7 @@
 #profile-update-interval: 1
 #profile-web-page-url: https://netip.icu
 #support-url: https://t.me/netipicu
-#announce: ⚠️ Не работает? Звони, говори! Пиши! ⚠️ обновление: 28.11 08.27
+#announce: ⚠️ Не работает? Звони, говори! Пиши! ⚠️ обновление: 28.11 08:27
 #subscription-userinfo: upload=0; download=0; total=3188583720550; expire=4102444799
 
 
